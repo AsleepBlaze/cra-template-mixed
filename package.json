@@ -1,0 +1,23 @@
+{
+  "name": "@wmslei78/cra-template-mixed",
+  "version": "1.1.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "react-redux",
+    "react-router-dom",
+    "axios",
+    "lodash"
+  ],
+  "description": "The mixed template for Create React App.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}

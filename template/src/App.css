@@ -1,0 +1,53 @@
+html body #root {
+  margin: 0;
+  padding: 0;
+  height: '100%';
+  font-family: 'Gilroy';
+  font-size: 16px;
+  color: black;
+  background: white;
+}
+
+button {
+  border: 'none';
+  cursor: 'pointer';
+  color: black;
+  margin: 0;
+  padding: 0;
+  font-family: 'Gilroy';
+}
+
+input {
+  border: 'none';
+  outline: 'none';
+  padding: 0;
+  font-size: 16px;
+  color: black;
+  background: 'transparent';
+  font-family: 'Gilroy';
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: black;
+  text-decoration: 'none';
+}
+
+pre {
+  font-family: 'inherit';
+  white-space: 'pre-wrap';
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
