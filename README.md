@@ -14,7 +14,7 @@ npx create-react-app my-app --template @wmslei78/mixed
 yarn create react-app my-app --template @wmslei78/mixed
 ```
 
-<font color=Red>\*</font> Then, for support `husky` `lint-staged` `prettier` run firstly:
+<font color=Red>\*</font> Then, for support `husky` `lint-staged` `prettier` run firstly
 ```sh
 npx husky install
 ```
