@@ -9,12 +9,22 @@
     "react-redux",
     "react-router-dom",
     "axios",
-    "lodash"
+    "lodash",
+    "husky",
+    "lint-staged",
+    "prettier"
   ],
   "description": "The mixed template for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AsleepBlaze/cra-template-mixed.git"
+  },
   "license": "MIT",
   "engines": {
     "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/AsleepBlaze/cra-template-mixed/issues"
   },
   "files": [
     "template",
